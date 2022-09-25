@@ -1,2 +1,2 @@
 # NLP
-BOW and TFIDF
+BOW, TFIDF, Word2Vec, BERT
